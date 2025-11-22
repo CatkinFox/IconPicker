@@ -1,0 +1,21 @@
+{
+    "name": "blackfoxit/iconpicker-plugin",
+    "type": "october-plugin",
+    "description": "FontAwesome icon picker form widget for OctoberCMS",
+    "keywords": ["october", "octobercms", "icon", "fontawesome", "picker"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BlackFox IT",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "october/rain": ">=3.0",
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "description": "A form widget for selecting FontAwesome icons in OctoberCMS backend forms. Includes FontAwesome assets locally (no CDN required)."
+    }
+}
