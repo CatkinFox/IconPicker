@@ -21,7 +21,6 @@ class Plugin extends PluginBase
             'description' => 'FontAwesome icon picker form widget for OctoberCMS',
             'author'      => 'BlackFox IT',
             'icon'        => 'icon-font'
-            // 'homepage'    => 'https://...' // Optional: Add homepage URL
         ];
     }
 
@@ -32,7 +31,6 @@ class Plugin extends PluginBase
      */
     public function register()
     {
-        // Future registrations (like console commands) can go here
     }
 
     /**
@@ -42,7 +40,6 @@ class Plugin extends PluginBase
      */
     public function boot()
     {
-        // Code to run on plugin boot
     }
 
     /**

@@ -16,6 +16,6 @@
         "composer/installers": "~1.0"
     },
     "extra": {
-        "description": "A form widget for selecting FontAwesome icons in OctoberCMS backend forms. Includes FontAwesome assets locally (no CDN required)."
+        "description": "A form widget for selecting FontAwesome icons in OctoberCMS backend forms. Includes FontAwesome assets locally."
     }
 }
